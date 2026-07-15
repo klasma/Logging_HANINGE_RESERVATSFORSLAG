@@ -1,0 +1,23 @@
+2026-07-15 04:32:07 Started replace_files.
+2026-07-15 04:32:07 Clearing repo C:\git\Logging_HANINGE_RESERVATSFORSLAG.
+2026-07-15 04:32:07 Processing.
+2026-07-15 04:32:07 Loading species.
+2026-07-15 04:32:12 Loading notifications from shape files.
+2026-07-15 04:32:13 Loading observations.
+2026-07-15 04:32:28 Adding observations to notifications.
+2026-07-15 04:32:42 Freeing memory.
+2026-07-15 04:32:43 Loading observation Excel dictionaries.
+2026-07-15 04:32:44 Adding owners.
+2026-07-15 04:33:01 Processing logging notifications.
+2026-07-15 04:33:01 Generating observation maps.
+2026-07-15 04:40:26 Generating knärot maps.
+2026-07-15 04:40:37 Generating complaints.
+2026-07-15 04:40:47 Generating complaint letters.
+2026-07-15 04:40:57 Generating requests.
+2026-07-15 04:41:07 Generating request letters.
+2026-07-15 04:41:27 Saving notification information to Excel.
+2026-07-15 04:41:27 Saving list of notifications to json.
+2026-07-15 04:41:27 Copying species text document.
+2026-07-15 04:41:27 Saving observations to Excel.
+2026-07-15 04:41:37 Pushing repo C:\git\Logging_HANINGE_RESERVATSFORSLAG.
+2026-07-15 04:41:37 Pushing 1 repos.
