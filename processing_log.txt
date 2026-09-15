@@ -1,23 +1,23 @@
-2026-09-14 05:31:07 Started replace_files.
-2026-09-14 05:31:07 Clearing repo C:\git\Logging_HANINGE_RESERVATSFORSLAG.
-2026-09-14 05:31:08 Processing.
-2026-09-14 05:31:08 Loading species.
-2026-09-14 05:31:13 Loading notifications from shape files.
-2026-09-14 05:31:14 Loading observations.
-2026-09-14 05:31:30 Adding observations to notifications.
-2026-09-14 05:31:46 Freeing memory.
-2026-09-14 05:31:47 Loading observation Excel dictionaries.
-2026-09-14 05:31:48 Adding owners.
-2026-09-14 05:32:06 Processing logging notifications.
-2026-09-14 05:32:06 Generating observation maps.
-2026-09-14 05:40:52 Generating knärot maps.
-2026-09-14 05:41:04 Generating complaints.
-2026-09-14 05:41:16 Generating complaint letters.
-2026-09-14 05:41:26 Generating requests.
-2026-09-14 05:41:38 Generating request letters.
-2026-09-14 05:41:59 Saving notification information to Excel.
-2026-09-14 05:41:59 Saving list of notifications to json.
-2026-09-14 05:41:59 Copying species text document.
-2026-09-14 05:41:59 Saving observations to Excel.
-2026-09-14 05:42:11 Pushing repo C:\git\Logging_HANINGE_RESERVATSFORSLAG.
-2026-09-14 05:42:11 Pushing 1 repos.
+2026-09-15 11:56:07 Started replace_files.
+2026-09-15 11:56:07 Clearing repo C:\git\Logging_HANINGE_RESERVATSFORSLAG.
+2026-09-15 11:56:09 Processing.
+2026-09-15 11:56:09 Loading species.
+2026-09-15 11:56:14 Loading notifications from shape files.
+2026-09-15 11:56:14 Loading observations.
+2026-09-15 11:56:31 Adding observations to notifications.
+2026-09-15 11:56:48 Freeing memory.
+2026-09-15 11:56:48 Loading observation Excel dictionaries.
+2026-09-15 11:56:50 Adding owners.
+2026-09-15 11:57:08 Processing logging notifications.
+2026-09-15 11:57:08 Generating observation maps.
+2026-09-15 12:06:01 Generating knärot maps.
+2026-09-15 12:06:13 Generating complaints.
+2026-09-15 12:06:24 Generating complaint letters.
+2026-09-15 12:06:35 Generating requests.
+2026-09-15 12:06:47 Generating request letters.
+2026-09-15 12:07:08 Saving notification information to Excel.
+2026-09-15 12:07:08 Saving list of notifications to json.
+2026-09-15 12:07:08 Copying species text document.
+2026-09-15 12:07:08 Saving observations to Excel.
+2026-09-15 12:07:20 Pushing repo C:\git\Logging_HANINGE_RESERVATSFORSLAG.
+2026-09-15 12:07:20 Pushing 1 repos.
